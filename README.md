@@ -1,10 +1,11 @@
-<p align="center">
-    <img src="https://files.dikiaap.id/img/open-source/minimalist_preview.png" alt="Minimalist on HTML">
-</p>
+![screenshot](images/minimalist.png)
 
 # Minimalist
 Minimalist is a Material Color Scheme Darker for Vim & inspired by
 [Material Theme](https://github.com/equinusocio/material-theme).
+
+# Why Fork  
+Fork of [Minimalist](https://github.com/dikiaap/minimalist) but with transparent background and Opaque Pmenu thats it.
 
 ## Installation
 
@@ -13,7 +14,7 @@ To install this color scheme, you can use one of the following ways:
 - Use [Vundle](https://github.com/VundleVim/Vundle.vim#quick-start) by adding
 to your `.vimrc` Vundle plugin section:
 
-        Plugin 'dikiaap/minimalist'
+        Plugin 'uttarayan21/minimalist'
 
     Then run `:PluginInstall`.
 
@@ -22,7 +23,7 @@ OR
 - Use [vim-plug](https://github.com/junegunn/vim-plug#installation) by adding
 to your `.vimrc` vim-plug section:
 
-        Plug 'dikiaap/minimalist'
+        Plug 'uttarayan21/minimalist'
 
     Then run `:PlugInstall`.
 
@@ -33,7 +34,7 @@ OR
     Run the following in a terminal:
 
         cd ~/.vim/bundle
-        git clone https://github.com/dikiaap/minimalist
+        git clone https://github.com/uttarayan21/minimalist
 
 ## Usage
 
